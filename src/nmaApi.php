@@ -1,6 +1,9 @@
 <?php
 namesape NotifyMyAndroid;
 
+	/**
+	 * @version 1.0.0
+	 */
 class nmaApi
 {
 
