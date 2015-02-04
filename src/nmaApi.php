@@ -1,5 +1,5 @@
 <?php
-namesape NotifyMyAndroid;
+namespace NotifyMyAndroid;
 
 	/**
 	 * @version 1.0.0
