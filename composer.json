@@ -1,5 +1,6 @@
 {
     "name": "xerxes87/php-notifyMyAndroid",
+    "version": "1.0.0",
     "type": "library",
     "description": "PHP library to access the webserives of NotifyMyAndroid",
     "keywords": ["api","webservices"],
