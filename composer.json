@@ -1,0 +1,15 @@
+{
+    "name": "xerxes87/php-notifyMyAndroid",
+    "type": "library",
+    "description": "PHP library to access the webserives of NotifyMyAndroid",
+    "keywords": ["api","webservices"],
+    "homepage": "https://github.com/xerxes87/php-notifyMyAndroid",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "NotifyMyAndroid": "src"
+        }
+    }
+}
