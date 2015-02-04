@@ -1,4 +1,5 @@
 <?php
+namesape NotifyMyAndroid;
 
 class nmaApi
 {
